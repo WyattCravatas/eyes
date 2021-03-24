@@ -1,4 +1,2 @@
 # eyes
-Eyes follow cursor
-Clicks change background color
-Made with HTML, CSS, Javascript, and Jquery
+Eyes made with HTML & CSS that follow cursor on mouse movement, and change background color on click events using Javascript & JQuery.
